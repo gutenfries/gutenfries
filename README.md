@@ -17,6 +17,7 @@
 -   :mailbox: Reach out to me at:
     -   [Twitter](https://twitter.com/gutenfries)
     -   [Peerlist](https://peerlist.io/gutenfries)
+    -   [LinkedIn](https://linkedin.com/in/gutenfries)
     -   [Email](mailto:gutenfries@gmail.com)
 
 ![](https://wakatime.com/share/@gutenfries/10b2a263-b9c7-4377-a495-90b766a5dff5.svg)
