@@ -19,5 +19,9 @@
     -   [Peerlist](https://peerlist.io/gutenfries)
     -   [LinkedIn](https://linkedin.com/in/gutenfries)
     -   [Email](mailto:gutenfries@gmail.com)
-
-![](https://wakatime.com/share/@gutenfries/10b2a263-b9c7-4377-a495-90b766a5dff5.svg)
+    
+<picture width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://wakatime.com/share/@gutenfries/753f3655-5412-4a42-855a-9cee40f80b56.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://wakatime.com/share/@gutenfries/3c948086-6dd5-4ef6-a8a9-5bb8362dc144.png">
+  <img alt="mark gutenberger's wakatime stats" src="https://wakatime.com/share/@gutenfries/3c948086-6dd5-4ef6-a8a9-5bb8362dc144.png" />
+</picture>
