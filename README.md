@@ -1,14 +1,13 @@
 ## Hi there :wave:
 
-#### I'm [Mark](https://gutenfries.deno.dev), :octocat: a Full-Stack Developer based out of Wisconsin, USA.
+### I'm [Mark](https://gutenfries.deno.dev), :octocat: a Full-Stack Developer based out of Wisconsin, USA.
 
-##### CURRENTLY WORKING ON
+#### CURRENTLY WORKING ON
 
 -   my [personal website](https://github.com/gutenfries/gutenfries.deno.dev), [gutenfries.deno.dev](https://gutenfries.deno.dev)
 
-##### BIO
+#### BIO
 
--   :office: Currently working searching for fitting work.
 -   :gear: I use daily: `.ts`, `.html`, `.tsx`, `.css`, `.rs`, `.c`, `.cpp`, `.sh`, `.ps1`
 -   :earth_americas: I'm mostly active within the **[Deno](https://deno.land)** and **[Rust](https://rust-lang.org)** communities
 -   :seedling: Currently Learning more about **Rust**
