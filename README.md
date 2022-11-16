@@ -1,6 +1,4 @@
-## Hi there :wave:
-
-### I'm [Mark](https://gutenfries.deno.dev), :octocat: a Full-Stack Developer based out of Wisconsin, USA.
+### Hi there :wave:, I'm [Mark](https://gutenfries.deno.dev), :octocat: a Full-Stack Developer based out of Wisconsin, USA.
 
 #### CURRENTLY WORKING ON
 
