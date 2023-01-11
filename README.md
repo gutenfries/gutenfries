@@ -4,7 +4,7 @@ I do software engineering based out of Wisconsin, USA.
 #### CURRENTLY WORKING ON
 
 -   my [personal website](https://github.com/gutenfries/gutenfries.deno.dev), [gutenfries.deno.dev](https://gutenfries.deno.dev)
--   Owner/Director @[dart-sys](https://github.com/dart-sys/dart-sys)
+-   Owner & Director @[dart-sys](https://github.com/dart-sys/dart-sys)
 
 #### BIO
 
