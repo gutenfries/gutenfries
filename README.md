@@ -1,9 +1,12 @@
 ---
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust)
+![Dart](https://img.shields.io/badge/-Dart-333333?style=flat&logo=dart)
 ![C++](https://img.shields.io/badge/-C++-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![Deno](https://img.shields.io/badge/-Deno-333333?style=flat&logo=deno)
 ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
