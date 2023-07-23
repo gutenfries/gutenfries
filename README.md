@@ -1,5 +1,3 @@
-# Hi 🤯
-
 ---
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
@@ -15,7 +13,7 @@
 
 ---
 
-![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gutenfries&layout=compact&theme=onedark&hide=lua,Vim%20Script&langs_count=10)
+![](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=gutenfries&layout=compact&theme=dark&hide=lua,Vim%20Script&langs_count=10)
 
 ---
 
