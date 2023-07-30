@@ -1,3 +1,4 @@
+Bad at skateboarding, better at coding
 ---
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
